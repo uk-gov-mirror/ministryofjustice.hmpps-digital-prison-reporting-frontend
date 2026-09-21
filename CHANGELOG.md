@@ -1,5 +1,9 @@
 Below you can find the changes included in each release.
 
+## 9.2.4
+
+- Improve accessibility of the data table
+
 ## 9.2.3
 
 - Fix query param formatting when downloading reports
